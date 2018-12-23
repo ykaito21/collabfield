@@ -31,6 +31,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'bootstrap_form'
 gem 'jquery-rails'
 gem 'devise'
+gem 'faker'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
